@@ -1,0 +1,12 @@
+{
+  "name": "heys",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "SONEPAR\\kjacobson <kraig.jacobson@vallen.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "matter-js": "^0.14.1",
+    "socket.io": "^2.0.4"
+  }
+}
